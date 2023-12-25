@@ -21,7 +21,7 @@ main{
     justify-content: center;
     box-shadow:#A6CF98 8px 8px, #F3B664 12px 12px,#557C55 15px 15px, #557C55 18px 18px, #FA7070 23px 23px;;
 }
-#email,#id,#pw,#name{
+#email,#id,#pw,#name,#pwr{
     width: 400px;
     background-color: white;
     padding:12px;
